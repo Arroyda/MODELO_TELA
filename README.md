@@ -28,6 +28,7 @@ Ferramentas utilizadas e bibliotecas
 
 * **Versão 1.0** - Inicio do Projeto. *30/10/2024*
 * **Versão 1.1** - Criação e Finalização do Projeto e ReadMe *30/10/2024*
+* **Versão 1.2** - Alteração Comentários *30/10/2024*
 
 ## ✒️ Autores
 
